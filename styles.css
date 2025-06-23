@@ -1044,7 +1044,7 @@ footer  {
 
     .photo {
         background:
-            url(../images/photo/photo-image.png) left / 986px 1022px no-repeat,
+            url(..imagesphotophoto-image.png) left / 986px 1022px no-repeat,
             var(--color-dark-blue);
     }
 
@@ -1054,7 +1054,7 @@ footer  {
         top: 50px;
         left: 0;
         z-index: 1;
-        background: url(../images/reviews/decor-1.png) center / cover no-repeat;
+        background: url(..imagesreviewsdecor-1.png) center / cover no-repeat;
         width: 232px;
         height: 230px;
         z-index: 100;
